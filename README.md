@@ -1,4 +1,4 @@
-# Arc-teryx-Fit-Finder-Precision-Size-Recommender
+# Arc'teryx-Fit-Finder-Precision-Size-Recommender
 ## Overview
 This project aims to predict clothing sizes based on individual body measurements. Whether you’re a fashion retailer, an e-commerce platform, or a fitness brand, accurate sizing recommendations are crucial for customer satisfaction. By leveraging machine learning techniques, we can provide personalized size suggestions, reducing fit issues and enhancing the overall shopping experience.
 
